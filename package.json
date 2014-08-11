@@ -1,28 +1,26 @@
 {
-    "name": "x-echo",
-    "version": "0.9",
-    "description": "node.js module to echo http request headers and send them back in the response headers",
-    "author": "Gavriel Fleischer <flocsy@gmail.com>",
-    "keywords": [
-        "node",
-        "nodejs",
-        "echo",
-        "http",
-        "request",
-        "header",
-        "headers"
-    ],
-    "licenses": "GNU",
-    "dependencies": {},
-    "main": "./index.js",
-    "directories": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/flocsy/x-echo.git"
-    },
-    "bugs": {
-        "url": "https://github.com/flocsy/x-echo/issues"
-    },
-    "homepage": "https://github.com/flocsy/x-echo",
-    "readmeFilename": "README.md"
+  "name": "x-echo",
+  "version": "0.9.0",
+  "description": "node.js module to echo http request headers and send them back in the response headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flocsy/x-echo.git"
+  },
+  "keywords": [
+    "echo",
+    "http",
+    "request",
+    "header",
+    "headers"
+  ],
+  "author": "Gavriel Fleischer <flocsy@gmail.com>",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/flocsy/x-echo/issues"
+  },
+  "homepage": "https://github.com/flocsy/x-echo"
 }
