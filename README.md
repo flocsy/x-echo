@@ -68,6 +68,8 @@ GNU GENERAL PUBLIC LICENSE
 
 This module was written by Gavriel Fleischer [x-echo](https://github.com/flocsy/x-echo)
 
+The idea came from: http://stackoverflow.com/questions/1043339/javascript-for-detecting-browser-language-preference
+
 ## Change log
 
 #### v1.0
