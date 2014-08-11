@@ -1,6 +1,6 @@
 {
   "name": "x-echo",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "node.js module to echo http request headers and send them back in the response headers",
   "main": "index.js",
   "scripts": {
